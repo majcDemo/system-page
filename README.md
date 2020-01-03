@@ -53,7 +53,7 @@
 符合以上条件后，点击右侧的派发按钮，该检验任务就派发到指定的检验员
 
 ### 检验数据反馈
-![The Vue Instance Lifecycle](/images/checkTaskTree.png)
+![The Vue Instance Lifecycle](/images/checkTaskInsert.png)
 数据录入分为两大类：
 实测类
 进入检验任务列表—检验项列表，选择自己检验的检验项，进入数据录入界面，
@@ -82,6 +82,7 @@
 
 本系统可以将制造系统的软硬件结合起来使用，实现真正的智能制造，内涵看板，站位任务等多个模块 可以给操作人员提供更多的便捷
 ![The Vue Instance Lifecycle](/images/controlcenter.png)
+
 ## 物料管理
 
 物料管理是指将新入库的物料分配货架进行管理，以及该物料的合并入库，分批出库等操作将物料分别放入不同的位置 在该过程中也可以对该物料进行出线和上报异常。
