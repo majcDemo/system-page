@@ -1,3 +1,3 @@
 # 智能制造系统
 
-[](/images/login-background.jpg)
+![](/images/login-background.jpg)
