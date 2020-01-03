@@ -1,2 +1,2 @@
 * [首页](/)
-* [讨论](https://github.com/xiaolai/blockchainlittlebook.com/issues)
+* [系统](http://114.116.96.152:8004)
