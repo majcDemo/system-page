@@ -1,4 +1,4 @@
-# 区块链白皮书
-李笑来（著）&copy; 2019
+# 智能制造系统
+[前往](http://114.116.96.152:8004); 2020
 
-![](/images/blbcover.gif)
+![](/images/login-background.jpg)
